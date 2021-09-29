@@ -1,0 +1,12 @@
+#!/usr/bin/env bash
+ 
+echo "
+Hello, $USER.
+"  
+echo "
+You're in the directory:"
+	pwd
+echo "
+Listing files and directories from the actual directory..."
+	ls --color=auto 
+echo " "
