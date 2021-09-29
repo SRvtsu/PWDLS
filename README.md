@@ -1,7 +1,9 @@
- ____,  _   _, ____,  __,    ____, 
-(-|__) (-|  | (-|  \ (-|    (-(__  
- _|     _|/\|, _|__/  _|__,  ____) 
-(      (      (      (      (      
+PPPP  W     W DDD  L     SSS  
+P   P W     W D  D L    S     
+PPPP  W  W  W D  D L     SSS  
+P      W W W  D  D L        S 
+P       W W   DDD  LLLL SSSS  
+                              
 
 # PWDLS
 
